@@ -1,2 +1,2 @@
-# Proyecto no coenecta
+# Proyecto no conecta
  
